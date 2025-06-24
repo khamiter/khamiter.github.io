@@ -1989,6 +1989,7 @@ button,
       font-weight: 900; }
     #sidebar .toggle:before {
       content: '\f0c9';
+color: #f56ab9;
       font-size: 2rem;
       height: inherit;
       left: 0;
